@@ -1,0 +1,17 @@
+Outline-Client.AppImage
+obsidian_1.8.10_amd64.deb
+go1.24.3.linux-amd64.tar.gz
+gigacode-vscode-ext-1.6.577-ext(1).vsix
+0002-LinuxPkg_5.18rc8.tar.bz2
+ddddp24s.jpg
+frieren.jpg
+photo_2025-06-25_21-56-58.jpg
+channels4_banner.jpg
+photo_2025-04-28_11-09-41.jpg
+amdgpu-install_6.3.60304-1_all.deb
+Password-Cracker-main.zip
+gigacode-vscode-ext-1.6.577-ext
+go1.24.3 (2).linux-amd64
+Password-Cracker-main
+Telegram Desktop
+Yui-main
